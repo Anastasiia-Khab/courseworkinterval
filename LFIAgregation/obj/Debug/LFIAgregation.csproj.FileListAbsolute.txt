@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\bin\Debug\LFIAgregation.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\bin\Debug\LFIAgregation.exe
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\bin\Debug\LFIAgregation.pdb
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.exe
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.pdb
+c:\users\user\documents\visual studio 2013\Projects\LFIAgregation\LFIAgregation\obj\Debug\LFIAgregation.csprojResolveAssemblyReference.cache
